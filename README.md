@@ -1,4 +1,5 @@
 DATA CLEANING AND OPTIMIZATION OF LAYOFF DATASET using SQL
+
 • Cleaned and standardized a dataset with 2,361 records and 9 columns
 related to company layoffs.
 • Handled missing values, imputing data for 740 missing totallaidoff
